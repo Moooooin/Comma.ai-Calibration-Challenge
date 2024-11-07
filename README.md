@@ -1,6 +1,7 @@
 # Solution for Comma.ai's Calibration Challenge
 
-If you want to solve it yourself, download the code for the challenge [here](https://github.com/commaai/calib_challenge/tree/main).
+If you want to solve it yourself, download the code for the challenge [here](https://github.com/commaai/calib_challenge/tree/main). <br/>
+Full Explanation of the code in [this article](https://medium.com/@marklpd/predicting-car-movements-in-videos-with-a-neural-network-bedd2cc83497).
 
 #### Challenge: Predict car movement in videos with a small and corrupted dataset with less than 25% error.
 
